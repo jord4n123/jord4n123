@@ -5,9 +5,7 @@
 **🔎Sobre mim**
 
 Olá! Me chamo Jordan e estou iniciando minha jornada como desenvolvedor web. Tenho muito interesse em criar sites e aplicações que facilitem a vida das pessoas. Atualmente, estou aprendendo HTML, CSS e JavaScript, e todos os dias busco evoluir um pouco mais.
-
 Gosto de colaborar com outros devs, trocar ideias e ajudar minha equipe a crescer junto. Estou sempre aberto(a) a novos aprendizados e desafios, e meu objetivo é conseguir minha primeira oportunidade como desenvolvedor júnior.
-
 Quando não estou estudando código, gosto de esporte e lazer.
 
 <img 
