@@ -1,27 +1,33 @@
-- 👋 Oi, eu sou Jordan Erik
+<h1>🧑‍🦱Ola, eu sou Lucas Rafael</h1>
 
-- 👀 Estou interessado em desenvolvimento web
+**Estudante de Desenvolvimento de Sistemas⚙️**
 
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+**🔎Sobre mim**
 
-- 💞️ Procuro colaborar em projetos e ajudar a equipe cada vez mais
+Sou apaixonado por tecnologia desde criança. Programar é algo que amo fazer, por isso me identifico muito com o back-end. Estudo Desenvolvimento de Sistemas e pretendo cursar Análise e Desenvolvimento de Sistemas (ADS). Gosto especialmente de programar em Java e Python, sempre buscando evoluir e aprender mais.
 
-- 📫 Como me contatar: jordan.costa1@aluno.ce.gov.br
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jord4n123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+      alt="GitHub Stats" 
+      height="160" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jord4n123&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
 
-- 😄 Pronomes: ele/dele
+📚 **Tecnologias que estou aprendendo:**
+<div style="display: inline_block">
 
-- ⚡ Curiosidade: sou dançarino
-
-- 💻 Ferramentas e tecnologias que uso: GitHub, VS Studio
-
-- 📚 Próximos passos: Aprender frameworks como React
-
-- 🎯 Objetivo: Conseguir minha primeira oportunidade como Dev front-end júnior
-
-- 🤝 Sempre aberto a: novos aprendizados, feedbacks e boas conversas com Dev front-end
-
-
-<!---
-jord4n123/jord4n123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  </div>
+</div>
