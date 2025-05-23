@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @jord4n123
+- 👋 Oi, eu sou Jordan Erik
 
 - 👀 Estou interessado em desenvolvimento web
 
