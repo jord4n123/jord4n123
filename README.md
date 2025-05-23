@@ -28,6 +28,5 @@ Quando não estou estudando código, gosto de esporte e lazer.
 
    <img align="center" width=40 heght=30 hspace=10 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
    <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-   <img align="center" width=40 heght=30 hspace=10 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   </div>
 </div>
